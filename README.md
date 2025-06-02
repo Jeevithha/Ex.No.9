@@ -35,14 +35,14 @@ Generate multiple versions of the same prompt with slight variations to compare 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 # Prompt:
-Develop a modular game engine that enables studios to build games with near-infinite replayability through adaptive narrative systems, AI-generated quests, and evolving world states. Design it as an open framework others can license and customize—position your company as the “Netflix of dynamic games.
-# output:
-https://github.com/user-attachments/assets/56ebc45d-7270-4532-84a6-ba12ed73c660
-# Prompt:
-Imagine embarking on an epic journey where every world is a gateway to new adventures. The core game serves as your entry point, a hub connecting a sprawling multi-universe ecosystem. With each DLC or seasonal pass, you unlock fantastical realms—whether exploring neon-lit cyberpunk cities, mysterious fantasy kingdoms, gritty noir streets, or prehistoric wilderness. Every world tells its own story, yet all threads lead back to a central, evolving meta-narrative that grows and changes with every choice you make
-# Output:
-https://github.com/user-attachments/assets/ce42de3c-61db-4062-ba1f-73276a23df45
+"Create a dynamic video showcasing a man navigating through a bustling city, with adaptive narrative elements and AI-generated visuals that reflect the city's ever-changing atmosphere."
 
+# Prompt:
+Create a contrasting serene natural landscapes with futuristic AI-generated cityscapes, highlighting the harmony of nature and the dynamism of AI-driven worlds
+# Output:
+
+## drive link:
+https://drive.google.com/drive/folders/1SszbQT5VdasmPnnO3DozyNg4KlksXGbc
 
 # Result: 
 The Prompt of the above task executed successfully
